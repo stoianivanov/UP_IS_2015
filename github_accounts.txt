@@ -15,5 +15,5 @@
 -github acc: Nedko11 .. IME: Nedko Brymchev .. Fak.nomer: 71657
 -github acc:mishokopchev..IME: Mihail Kopchev.. Fak.nomer:71601
 -github acc: Dilyana08..IME: Dilyana Gineva..Fak.nomer: 71655
--github acc: nqma.. IME: Mariana Dincheva.. Fak. nomer: 71640
+-github acc: marianadincheva.. IME: Mariana Dincheva.. Fak. nomer: 71640
 -github acc:ralitsasimeonova .. IME Ralitsa Simeonova .. FK: 71...
